@@ -52,9 +52,9 @@ export default class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
-  background: var(--lightBlue);
+  background: var(--mainBlue);
   .nav-link {
-    color: var(--mainDark) !important;
+    color: var(--mainWhite) !important;
     font-size: 1.3rem;
     text-transform: capitalize;
     font-family: "Permanent Marker", cursive;
@@ -74,7 +74,7 @@ const NavWrapper = styled.nav`
     border-radius: 5px;
     margin-top: 8px;
     font-ize: 17px;
-    width: 500px;
+    width: 300px;
   }
   .search-container button {
     float: right;
