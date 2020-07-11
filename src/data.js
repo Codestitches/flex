@@ -7,7 +7,7 @@ export const storeProducts = [
     price: 8,
     company: "Google",
     info:
-      "hdbjsssssdsssbhbssdbjsdbhbjdhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -19,7 +19,8 @@ export const storeProducts = [
       "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1563375962-samsung-galaxy-s10-plus-1550692548.jpg",
     price: 7,
     company: "samsung",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -30,7 +31,8 @@ export const storeProducts = [
     img: "https://dove.com.ng/wp-content/uploads/2018/11/3-300x300.jpg",
     price: 11,
     company: "apple",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -42,7 +44,8 @@ export const storeProducts = [
       "https://ugosam.com/wp-content/uploads/2020/05/homepod-id-2-300x300.jpg",
     price: 5,
     company: "tecno",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -54,7 +57,8 @@ export const storeProducts = [
       "https://affordablephonesng.com/ap/wp-content/uploads/2020/06/Xiaomi-Redmi-Note-9-Pro-Affordable-phone-ng-300x300.jpg",
     price: 10,
     company: "redmi",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -65,7 +69,8 @@ export const storeProducts = [
     img: "https://mchris.ng/wp-content/uploads/2019/04/7-PLUS-2-300x300.jpg",
     price: 10,
     company: "apple",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -76,8 +81,9 @@ export const storeProducts = [
     img:
       "https://getmobileprices.com/wp-content/uploads/2020/05/2-59-300x300.jpeg",
     price: 8,
-    company: "huawei",
-    info: "hdbjsssssdsssbhbssdbhjsbhjsdhbhjdjdjsdddddcndnjdnjndknsjdnndndnj",
+    company: "Huawei",
+    info:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
     count: 0,
     total: 0,
@@ -88,7 +94,7 @@ export const storeProducts = [
     img:
       "https://techlector.com/wp-content/uploads/2018/04/Huawei-Ascend-XT2-.jpg",
     price: 9,
-    company: "apple",
+    company: "Huawei",
     info:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
     incart: false,
