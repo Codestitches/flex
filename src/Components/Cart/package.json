@@ -1,3 +1,8 @@
 {
-  "main": "Cart.js"
+  "name": "cart",
+  "description": "for cart",
+  "authors": "codestitches",
+  "version": "1.0.0",
+  "main": "Cart.js",
+  "dependencies": {}
 }
