@@ -30,13 +30,6 @@ export default class Navbar extends Component {
               Products
             </Link>{" "}
           </li>
-          <li className="nav-item ml-5">
-            {" "}
-            <Link to="/about" className="nav-link">
-              {" "}
-              About
-            </Link>
-          </li>
         </ul>
         <Link to="/cart" className="ml-auto">
           <ButtonContainer>
@@ -52,7 +45,7 @@ export default class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
-  background: var(--mainBlue);
+  background: var(--mainDark);
   .nav-link {
     color: var(--mainWhite) !important;
     font-size: 1.3rem;
